@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Fpi-Map",
+    "slug": "fpi-map",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+    "barStyle": "light-content",
+    "backgroundColor": "#d8a409"
+  },
+  "android": {
+      "package": "ng.com.hubrootech.fpimap",
+      "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyCPk9gZCz5771iYX2plkTUu-St7FMf0hDc"
+      }
+    }
+  },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
