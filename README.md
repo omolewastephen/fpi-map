@@ -13,8 +13,8 @@
   npm install
   ```
  Using Yarn
-  ```
-  yarn install
-  ```
+    ```
+    yarn install
+    ```
 
 Enjoy
