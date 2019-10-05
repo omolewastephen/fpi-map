@@ -9,12 +9,12 @@
   ```
 
 * Install via NPM or Yarn
-```
-npm install
-```
+  ```
+  npm install
+  ```
  Using Yarn
-```
-yarn install
-```
+  ```
+  yarn install
+  ```
 
 Enjoy
